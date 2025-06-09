@@ -1,5 +1,7 @@
 # Aerofit Treadmill EDA Case Study
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 This project performs a detailed exploratory data analysis (EDA) on Aerofit treadmill sales and usage data to extract actionable business insights.
 
 #Objective
