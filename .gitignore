@@ -1,0 +1,9 @@
+# Exclude test cache
+.pytest_cache/
+
+# Exclude dataset files
+Aerofit.csv
+*.csv
+
+# Exclude Jupyter notebook checkpoints
+.ipynb_checkpoints/
