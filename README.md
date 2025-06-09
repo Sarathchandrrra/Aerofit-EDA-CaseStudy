@@ -39,6 +39,14 @@ The dataset includes details such as:
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 
+# Installation
+
+To install the required Python packages, run:
+
+```bash
+pip install -r requirements.txt
+```
+
 #Business Recommendations
 
 - Focus marketing on top 3 performing regions
