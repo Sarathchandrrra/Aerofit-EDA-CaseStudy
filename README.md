@@ -48,3 +48,9 @@ The dataset includes details such as:
 ---
 
 > 👤 By [Sarath Chandra](https://github.com/Sarathchandrrra)
+
+## Contributing
+
+Please use clear commit messages that summarize key changes. Good commit
+messages help maintainers track the history of the project and understand the
+intent of each update. Example: `Add MIT license and reference in README`.
