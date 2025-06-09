@@ -18,7 +18,7 @@ The dataset includes details such as:
 - Usage hours
 - Purchase trends
 
-> **Note:** Dataset used is to be `Aerofit.csv`.
+> **Note:** Dataset used is `Aerofit.csv`.
 
 #Key Insights
 
