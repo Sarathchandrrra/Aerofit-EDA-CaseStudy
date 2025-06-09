@@ -45,6 +45,11 @@ The dataset includes details such as:
 - Introduce mid-tier models in underperforming zones
 - Offer bundle discounts for older low-selling models
 
+# License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 ---
 
 > 👤 By [Sarath Chandra](https://github.com/Sarathchandrrra)
