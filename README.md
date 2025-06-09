@@ -77,5 +77,9 @@ pip install -r requirements.txt
 - Offer bundle discounts for older low-selling models
 
 ---
+## License
+
+This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+
 
 > 👤 By [Sarath Chandra](https://github.com/Sarathchandrrra)
