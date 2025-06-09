@@ -20,6 +20,29 @@ The dataset includes details such as:
 
 > **Note:** Dataset used is `Aerofit.csv`.
 
+## Getting the Data
+
+The original dataset can be downloaded from Kaggle (search for **"Aerofit Treadmill Case Study"**).
+Download `Aerofit.csv` and place it in this project directory. If you only want
+to experiment with the notebook, you can generate a small sample dataset using
+Python:
+
+```python
+import pandas as pd
+import numpy as np
+
+sample = pd.DataFrame({
+    "Product": np.random.choice(["AF204", "AF210", "AF214"], 10),
+    "Age": np.random.randint(20, 60, 10),
+    "Gender": np.random.choice(["M", "F"], 10),
+    "Region": np.random.choice(["East", "West", "North", "South"], 10),
+    "Usage": np.random.randint(1, 8, 10),
+    "Income": np.random.randint(30000, 90000, 10)
+})
+sample.to_csv("Aerofit.csv", index=False)
+```
+
+
 #Key Insights
 
 - High-end models priced above \$2000 are less popular in rural regions.
